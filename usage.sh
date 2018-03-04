@@ -4,7 +4,7 @@
                   # If any bug, report me in my Github page at below                                                 #
                   # Free to use/edit/distribute the code below by                                                    #
                   # giving proper credit to Author                                                                   #
-                  # Link: https://raw.githubusercontent.com/ali-hallaji/system-usage-bash/                           #
+                  # Link: https://github.com/ali-hallaji/system-usage-bash                                           #
                   ####################################################################################################
 #! /bin/bash
 # unset any variable which system may be using
