@@ -12,7 +12,7 @@
 # clear the screen
 clear
 
-unset constant_cmd os architecture kernelrelease internalip externalip nameserver loadaverage
+unset constant_cmd os cpuUsage architecture kernelrelease internalip externalip nameserver loadaverage
 
 while getopts iv name
 do
